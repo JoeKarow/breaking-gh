@@ -2,4 +2,5 @@
             <style xmlns="http://www.w3.org/1999/xhtml">
                 *{background: hsl(from currentColor h s calc(50% * l));}
         </style>
+            <text>Looks like you're not using a Chrome-based browser!</text>
 </svg>
